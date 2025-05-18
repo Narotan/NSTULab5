@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B17-blue.svg" alt="C++17" />
   <img src="https://img.shields.io/badge/Language-Go-brightgreen.svg" alt="Go" />
-  <img src="https://img.shields.io/badge/Build-CMake-green.svg" alt="CMake" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License" />
 </p>
 
 ---
